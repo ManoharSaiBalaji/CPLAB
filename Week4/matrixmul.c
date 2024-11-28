@@ -27,7 +27,7 @@ int main(){
            for(j=0;j<q;j++){
               sum=0;
               for(int k=0;k<n;k++){
-                 sum=sum+a[i][k]+b[k][i];
+                 sum=sum+a[i][k]*b[k][j];
                  }
               c[i][j]=sum;   
           
@@ -36,7 +36,7 @@ int main(){
         
        for(i=0;i<m;i++){
          for(j=0;j<q;j++){
-            printf("%d",c[i][j]);
+            printf("%d   ",c[i][j]);
          }
          printf("\n");
        }     
