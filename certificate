@@ -1,0 +1,26 @@
+\documentclass[a4,12pt]{article}
+\usepackage{graphicx}
+\usepackage[top=1.5in,bottom=1in, left=1.5in, right=1in{geometry}
+\begin{document}
+\begin{center}
+{\large\textbf{Vishnu Institute of Technology}}\\
+{\small\textbf{Kovvada, Vishnupur}}\\
+\textbf{Department of Computer Science and Engineering}\\
+\vspace{0.5cm}
+\includegraphics[scale=0.3] {vishnulogo.jpg}\\
+\vspace{0.5cm}
+\large\textbf{Declaration}\\
+\vspace{1cm}
+\end{center}
+I......*your name.*.......here by declare that my Project Report titled ".......*Project name*........................" is a bonafide record of the project  work  which I have  submitted to Vishnu Institute of Technology  in  partial fulfillment   of   the  credit requirements for the degree of Bachelor of Technology is my authentic work. This project report has not been copied, duplicated or plagiarised from any other paper, journal,document or book.
+\\
+\vspace{0.5cm}
+ place: Vishnupur
+ Date: xxxx\\
+ Project Associates:
+ \textbf{1. xxxxxxxxxxxxxx}
+  \textbf{2. xxxxxxxxxxxxxx}
+ \textbf{3. xxxxxxxxxxxxxx}
+\textbf{4. xxxxxxxxxxxxxx}
+
+\end{document}
